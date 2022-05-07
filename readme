@@ -1,2 +1,11 @@
 project setup
+##colab notebook :https://colab.research.google.com/github/arundavidb31/python-for-devops-22-may/blob/main/python1.ipynb#scrollTo=n184FQu65uEs
+#build scaffold
+---------------
+*makefile 
+*requirments.txt
+*test_lib.py
+*python_lib
+*dockerfile
+*command-line-tool
 microservices
